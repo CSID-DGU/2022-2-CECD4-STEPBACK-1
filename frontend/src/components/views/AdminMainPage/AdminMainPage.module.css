@@ -1,0 +1,23 @@
+.container {
+  width: 1400px;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  min-height: calc(83vh);
+  word-break: break-all;
+  margin: 0 auto;
+}
+
+.paper_list {
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.paper {
+  padding: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.top_row {
+  padding-bottom: 16px;
+}

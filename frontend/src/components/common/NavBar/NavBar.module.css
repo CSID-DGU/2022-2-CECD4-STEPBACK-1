@@ -1,0 +1,25 @@
+.logo {
+  width: 160px;
+  height: 30px;
+  margin: 18px 20px 0px 0px;
+  display: flex;
+  float: left;
+  cursor: pointer;
+}
+
+.logoImg {
+  width: 150px;
+  object-fit: cover;
+}
+
+.loginBtn {
+  position: absolute;
+  right: 2%;
+  cursor: pointer;
+  color: white;
+  font-size: 1.2em;
+}
+
+.menuItem:visited {
+  background-color: #17807c;
+}

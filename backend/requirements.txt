@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+# django--------------------------
+Django
+djangorestframework
+django-cors-headers
+mysqlclient
+
+# image processing----------------
+opencv-python
+pycryptodome
