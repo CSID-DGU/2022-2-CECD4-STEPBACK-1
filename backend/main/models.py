@@ -10,7 +10,7 @@ class OutputVideo(models.Model):
     selectnum = models.IntegerField(db_column='selectNum', blank=True, null=True)  # Field name made lowercase.
 
     class Meta:
-        managed = False
+        # managed = False
         db_table = 'output_video'
 
 
@@ -28,7 +28,7 @@ class Request(models.Model):
     selectnum = models.IntegerField(db_column='selectNum', blank=True, null=True)  # Field name made lowercase.
 
     class Meta:
-        managed = False
+        # managed = False
         db_table = 'request'
 
 
@@ -41,5 +41,5 @@ class User(models.Model):
     child_name = models.CharField(max_length=20)
 
     class Meta:
-        managed = False
+        # managed = False
         db_table = 'user'
