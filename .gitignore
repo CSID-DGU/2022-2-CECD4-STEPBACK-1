@@ -6633,7 +6633,3 @@ backend/django_venv/lib/python3.9/site-packages/yaml/resolver.py
 backend/django_venv/lib/python3.9/site-packages/yaml/scanner.py
 backend/django_venv/lib/python3.9/site-packages/yaml/serializer.py
 backend/django_venv/lib/python3.9/site-packages/yaml/tokens.py
-backend/main/models.py
-backend/main/README.md
-frontend/package-lock.json
-frontend/yarn.lock
